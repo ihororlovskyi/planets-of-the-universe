@@ -24,7 +24,8 @@ fotoramaDefaults = {
     keyboard: true,
     loop: true,
     autoplay: 3500,
-    thumbwidth: 100 
+    thumbwidth: 100,
+    hash: true
 }
 
 // toTop
