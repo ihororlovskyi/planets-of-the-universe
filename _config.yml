@@ -1,0 +1,2 @@
+baseurl: 'empty3'
+exclude: ['README.md', 'CNAME']
