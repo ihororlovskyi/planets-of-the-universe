@@ -1,2 +1,3 @@
-# skoryk-competition.github.io
-Web development of Skoryk Competition 2016 site
+# Empty 3
+
+Empty 3
