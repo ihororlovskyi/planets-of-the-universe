@@ -1,2 +1,2 @@
-baseurl: 'empty3'
+baseurl: /planets-of-the-universe
 exclude: ['README.md', 'CNAME']

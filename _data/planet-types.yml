@@ -1,0 +1,17 @@
+
+- title: Dwarf
+  folder: dwarf
+  content: ' A **dwarf planet** is a planetary-mass object that is neither a planet nor a natural satellite.'
+
+
+
+
+- title: Terrestrial
+  folder: terrestrial
+  content: ' A **terrestrial planet, telluric planet** or **rocky planet** is a planet that is composed primarily of silicate rocks or metals.'
+
+
+
+- title: Gas Giant
+  folder: gas-giant
+  content: ' A **gas giant** is a giant planet composed mainly of hydrogen and helium. Jupiter and Saturn are the Solar System gas giants.'

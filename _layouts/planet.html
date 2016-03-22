@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>{{page.title}}</h1>
+<img src="{{site.baseurl}}/img/{{page.image}}" alt="photo of {{planet.title}}" />
+
+<dl>
+   <dt>Discoverer by:</dt><dd> {{page.discoverer}}</dd>
+   <dt>Discovered on:</dt><dd> {{page.discovered}}</dd>
+   <dt>Orbital period:</dt><dd> {{page.orbit}}</dd>
+   <dt>Mean radius:</dt><dd> {{page.radius}}</dd>
+   <dt>Axial tilt:</dt><dd> {{page.tilt}}</dd>
+</dl>
+
+{{content}}

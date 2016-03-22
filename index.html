@@ -1,10 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Empty3</title>
-</head>
-<body>
-    <h1>Empty3</h1>
-</body>
-</html>
+---
+layout: default
+---
+
+<h1>Planets of the Universe</h1>
+<p>A planet is an astronomical object orbiting a star or stellar remnant that is massive enough to be rounded by its own gravity, is not massive enough to cause a thermonuclear fusion, and has cleared its neighboring region of planetesimals</p>
+
+<h2>Types of Planets</h2>
+
+ <ol>
+	{% for planet in site.data.planet-types %}
+	<li>
+       <a href="{{site.baseurl}}/planets/{{planet.folder}}/">{{planet.title}}</a>
+       {{planet.content | markdownify}}
+    </li>
+	{% endfor %}
+</ol>
+
+
+<h2>Recently Discovered Planets</h2>
+
+<ul>
+	{% for news in site.categories.recently-discovered limit:2%}
+   <li>
+       <a href="">{{news.title}}</a>
+       <p>{{news.meta}}</p>
+   </li>
+   {% endfor %}
+</ul>
+
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!-- this markeup is common to all pages -->
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Planets of the Universe</title>
+	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/common.css">
+</head>
+<body>
+
+<header>
+	<h1>Planets of the Universe Yeah</h1>
+     {% include nav.html navClass='nav-top' %}
+</header>
+
+<!-- content is from index-->
+{{content}}
+
+<footer>
+	<!-- includes are for small pieces of code shared 
+	     across multiple webpages.  Not quite like layouts -->
+     {% include nav.html navClass='nav-bottom' %}
+	<p>&copy; 2015 Planets of the Universe</p>
+</footer>
+</body>
+</html>
