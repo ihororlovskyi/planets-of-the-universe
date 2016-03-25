@@ -1,2 +1,4 @@
+markdown: redcarpet
 baseurl: /planets-of-the-universe
-exclude: ['README.md', 'CNAME']
+exclude: ['README.md']
+permalink: pretty

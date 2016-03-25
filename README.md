@@ -1,5 +1,14 @@
-# planets-of-the-universe
+# Jekyll code samples
 
-Jekyll website from a youtube tutorial by Thomas Bradley
+Code samples for the Jekyll tutorial.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-" frameborder="0" allowfullscreen></iframe>
+### [☛ Tutorials & videos](http://learn-the-web.algonquindesign.ca/topics/jekyll/)
+
+---
+
+## License & Copyright
+
+© Algonquin College Graphic Design — <http://algonquindesign.ca/>.<br>
+All code licensed under the [Unlicense](UNLICENSE).<br>
+All text, imagery, design, tutorials & videos licensed under the [CC BY-NC-SA License](http://creativecommons.org/licenses/by-nc-sa/4.0/).<br>
+Unless otherwise noted.

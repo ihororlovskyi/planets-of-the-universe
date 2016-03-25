@@ -1,15 +1,15 @@
 ---
 layout: planet
-title: pluto
-meta: Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune. It was the first Kuiper belt object to be discovered. 
+title: Pluto
+meta: Pluto is a large trans-Neptunian object in the Kuiper belt; the second-most-massive dwarf planet known in the Solar System.
 type: dwarf
 discoverer: Clyde W. Tombaugh
 discovered: 1930-02-18
-orbit: 248 years
-radius: 1,187 km
-tilt: 119.591°
+orbit: 247 years
+radius: 1161 km
+tilt: 119°
 image: pluto.jpg
-source: https://en.wikipedia.org/wiki/Pluto
+source: http://en.wikipedia.org/wiki/Pluto
 ---
 
-Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune. It was the first Kuiper belt object to be discovered. 
+*Pluto* is a large trans-Neptunian object in the Kuiper belt. It is the second-most-massive dwarf planet known in the Solar System (after Eris) and the tenth-most-massive body observed directly orbiting the Sun.

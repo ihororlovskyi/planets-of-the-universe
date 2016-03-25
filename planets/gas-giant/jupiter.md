@@ -1,15 +1,15 @@
 ---
 layout: planet
-title: jupiter
-meta: Jupiter is the fifth planet from the Sun and the largest in the Solar System. 
+title: Jupiter
+meta: Jupiter is the fifth planet from the Sun and the largest planet in the Solar System.
 type: gas-giant
-discoverer: unknown
-discovered: unknown
-orbit: 11.86 years
-radius: 71,492 km
-tilt: 3.13°
+discoverer: Galileo Galilei
+discovered: 1610
+orbit: 11.8 years
+radius: 69911 km
+tilt: 3°
 image: jupiter.jpg
-source: https://en.wikipedia.org/wiki/Jupiter
+source: http://en.wikipedia.org/wiki/Jupiter
 ---
 
-*Jupiter* is the fifth planet from the Sun and the largest in the Solar System. 
+*Jupiter* is the fifth planet from the Sun and the largest planet in the Solar System. It is a gas giant with mass one-thousandth of that of the Sun but is two and a half times the mass of all the other planets in the Solar System combined.
